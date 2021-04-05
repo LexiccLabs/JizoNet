@@ -1,0 +1,26 @@
+{
+  "name": "jizonet",
+  "version": "1.0.0",
+  "description": "Semiotic System for NEM protocol",
+  "main": "index.js",
+  "scripts": {
+    "test": "tsmtt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LumbiniLabs/JizoNet.git"
+  },
+  "keywords": [
+    "Semiott"
+  ],
+  "author": "ggv",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LumbiniLabs/JizoNet/issues"
+  },
+  "homepage": "https://github.com/LumbiniLabs/JizoNet#readme",
+  "dependencies": {
+    "rxjs": "^6.6.7",
+    "symbol-sdk": "^1.0.0"
+  }
+}
